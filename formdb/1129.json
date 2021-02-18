@@ -1,0 +1,182 @@
+[
+    {
+        "wid": "13759",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你的性别是？",
+        "description": "",
+        "minLength": 0,
+        "sort": "1",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field001",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68519",
+                "content": "男",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68520",
+                "content": "女",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13760",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你所在年级是？",
+        "description": "",
+        "minLength": 0,
+        "sort": "2",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field002",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68521",
+                "content": "大一",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68522",
+                "content": "大二",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68523",
+                "content": "大三",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68524",
+                "content": "大四及以上",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13761",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你的政治面貌",
+        "description": "",
+        "minLength": 0,
+        "sort": "3",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field003",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68525",
+                "content": "党员",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68526",
+                "content": "预备党员",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68527",
+                "content": "共青团员",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "13762",
+        "formWid": "1129",
+        "fieldType": 1,
+        "title": "对学校的教育教学方面，你有什么意见和建议？",
+        "description": "",
+        "minLength": 20,
+        "sort": "4",
+        "maxLength": 200,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field004",
+        "value": "无",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    },
+    {
+        "wid": "13763",
+        "formWid": "1129",
+        "fieldType": 1,
+        "title": "对学校的后勤服务方面，你有什么意见和建议？",
+        "description": "",
+        "minLength": 20,
+        "sort": "5",
+        "maxLength": 200,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field005",
+        "value": "无",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    },
+    {
+        "wid": "13764",
+        "formWid": "1129",
+        "fieldType": 1,
+        "title": "对学校的人才培养方面，你有什么意见和建议？",
+        "description": "",
+        "minLength": 20,
+        "sort": "6",
+        "maxLength": 200,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field006",
+        "value": "无",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    }
+]
