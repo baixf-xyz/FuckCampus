@@ -10,7 +10,7 @@ import uuid
 import sys
 import os
 import hashlib
-from Crypto.Cipher import AES
+from crypto.Cipher import AES
 
 
 class DailyCP:
