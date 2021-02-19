@@ -238,7 +238,7 @@ class DailyCP:
     def autoComplete(self, address, dbpath):
         collectList = self.getCollectorList()
         print(collectList)
-        print("hello")
+        print(self)
         for item in collectList:
             # if item["isHandled"] == True:continue
             detail = self.getCollectorDetail(item["wid"])
