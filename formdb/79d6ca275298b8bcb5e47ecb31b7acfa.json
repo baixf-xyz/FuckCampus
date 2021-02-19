@@ -5,10 +5,14 @@
     'fieldType': 1,
     'title': '今天你的所在地是？',
     'description': '国内请选择省/市/区（县）；海外请选择海外/州/国家',
-    'minLength': 1, 'sort': '1',
-    'maxLength': 300, 'isRequired': 1,
-    'imageCount': -2, 'hasOtherItems': 0,
-    'colName': 'field001', 'value': '山东省/泰安市/肥城市',
+    'minLength': 1,
+    'sort': '1',
+    'maxLength': 300,
+    'isRequired': 1,
+    'imageCount': -2,
+    'hasOtherItems': 0,
+    'colName': 'field001',
+    'value': '山东省/泰安市/肥城市',
     'minValue': 0.0,
     'maxValue': 0.0,
     'isDecimal': True,
@@ -36,14 +40,17 @@
         'content': '37.2℃及以下',
         'isOtherItems': 0,
         'contendExtend': None,
-        'isSelected': 1},
+        'isSelected': 1
+      }, 
       {
         'itemWid': '29660',
         'content': '37.3-37.9℃',
         'isOtherItems': 0,
         'contendExtend': None,
-        'isSelected': None},
-      {'itemWid': '29661',
+        'isSelected': None
+      }, 
+      {
+        'itemWid': '29661',
         'content': '38.0℃及以上',
         'isOtherItems': 0,
         'contendExtend': None,
@@ -75,28 +82,28 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': 1
-      },
+      }, 
       {
         'itemWid': '29663',
         'content': '发烧',
-        'isOtherItems': 0,
+        'isOtherItems': 0, 
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29664',
         'content': '干咳',
         'isOtherItems': 0,
         'contendExtend': None,
-        'isSelected': None}
-    ,
+        'isSelected': None
+      }, 
       {
         'itemWid': '29665',
         'content': '乏力',
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29666',
         'content': '其他',
@@ -130,7 +137,7 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29668',
         'content': '否',
@@ -139,7 +146,7 @@
         'isSelected': 1
       }
     ]
-  },
+  }, 
   {
     'wid': '12604',
     'formWid': '1245',
@@ -164,7 +171,7 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29670',
         'content': '否',
@@ -173,8 +180,9 @@
         'isSelected': 1
       }
     ]
-  },
-  {'wid': '12605',
+  }, 
+  {
+    'wid': '12605',
     'formWid': '1245',
     'fieldType': 2,
     'title': '近14天你或你的共同居住人是否是确诊、疑似病例？',
@@ -197,7 +205,7 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29672',
         'content': '否',
@@ -222,7 +230,7 @@
     'colName': 'field007',
     'value': '',
     'minValue': 0.0,
-    'maxValue': 0.0,
+    'maxValue': 0.0, 
     'isDecimal': True,
     'fieldItems': [
       {
@@ -231,7 +239,7 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29674',
         'content': '否',
@@ -240,7 +248,7 @@
         'isSelected': 1
       }
     ]
-  },
+  }, 
   {
     'wid': '12607',
     'formWid': '1245',
@@ -256,7 +264,7 @@
     'colName': 'field008',
     'value': '',
     'minValue': 0.0,
-    'maxValue': 0.0,
+    'maxValue': 0.0, 
     'isDecimal': True,
     'fieldItems': [
       {
@@ -264,15 +272,14 @@
         'content': '绿色',
         'isOtherItems': 0,
         'contendExtend': None,
-        'isSelected': 1
-      },
+        'isSelected': 1},
       {
         'itemWid': '29676',
         'content': '黄色',
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': None
-      },
+      }, 
       {
         'itemWid': '29677',
         'content': '红色',
@@ -306,7 +313,7 @@
         'isOtherItems': 0,
         'contendExtend': None,
         'isSelected': 1
-      },
+      }, 
       {
         'itemWid': '29679',
         'content': '否',
