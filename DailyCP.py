@@ -261,6 +261,7 @@ class DailyCP:
                     newForm = form
                     print(newForm)
                     form = json.loads(file.read().decode("utf-8"))
+                    print(form)
                     for item in newForm:
                         l = find(form, [['title', item['title']], [
                                  'description', item['description']]])
