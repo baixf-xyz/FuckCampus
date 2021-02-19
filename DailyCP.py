@@ -259,12 +259,13 @@ class DailyCP:
                         return None
 
                     newForm = form
+                    print(newForm)
                     form = json.loads(file.read().decode("utf-8"))
-                    for item1 in newForm:
-                        l = find(form, [['title', item1['title']], [
-                                 'description', item1['description']]])
-                        item1['value'] = l['value']
-                        for fieldItemsList in item1['fieldItems']:
+                    for item in newForm:
+                        l = find(form, [['title', item['title']], [
+                                 'description', item['description']]])
+                        item['value'] = l['value']
+                        for fieldItemsList in item['fieldItems']:
                             field = find(l['fieldItems'], [
                                 ['content', fieldItemsList['content']]])
                             fieldItemsList['isSelected'] = field['isSelected']
