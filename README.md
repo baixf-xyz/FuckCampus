@@ -34,7 +34,7 @@
 
 ![image-20210219161433765](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210219161433765.png)
 
-2. `Fork` 完成后，点击 `Settings` ，增加 `SCHOOL_NAME` 、 `ACCOUNT` 、 `PASSWORD` 、 `ADDRESS` 共计 4 个 `Secrets`，分别对应你的**学校名称**(中文名全称)、**账号**、**密码**、**定位地址**。
+2. `Fork` 完成后，点击 `Settings` ，增加 `SCHOOL_NAME` 、 `ACCOUNT` 、 `PASSWORD` 、 `ADDRESS` 、`SCKEY` 共计 5 个 `Secrets`，分别对应你的**学校名称**(中文名全称)、**账号**、**密码**、**定位地址** 、 **[Server酱SCKEY](http://sc.ftqq.com/)**。
 
    ![image-20210219161928451](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210219161928451.png)
 

@@ -43,3 +43,7 @@ jobs:
         with:
           name: formdb
           path: formdb
+          
+      - name: server酱
+        run: |
+          curl -g "https://sc.ftqq.com/${{ secrets.SCKEY }}.send?text=今日校园已填写&&desp=[details](https://blog.baixf.tk)"
