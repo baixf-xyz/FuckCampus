@@ -73,5 +73,20 @@
 
 ### 🎨效果截图
 
+![image-20210220102213315](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210220102213315.png)
+
+![image-20210220102338192](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210220102338192.png)
+
+![image-20210220102137421](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210220102137421.png)
+
 ![img](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//005AJQBUly1gnsvztwecsj31hc0qa0y2.jpg)
 
+### 🎉后记
+
+本项目版权归属其Gitee作者，如有侵权立删。本项目在原作品上增加了打印 **辅导员通知** 的`json`信息以及 **serve酱** 微信提醒。
+
+- 如果你平时更喜欢使用QQ，你可以尝试接入**Qmsg酱** 进行QQ消息提醒。
+
+- 如果你是新手，就按照本教程一步一步进行操作。
+
+- 如果你熟悉python，你可以尝试自己魔改。
