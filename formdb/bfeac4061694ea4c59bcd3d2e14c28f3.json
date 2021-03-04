@@ -1,0 +1,179 @@
+[
+    {
+        "wid": "3132",
+        "formWid": "174",
+        "fieldType": 2,
+        "title": "你的健康状态",
+        "description": "",
+        "minLength": 0,
+        "sort": "1",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field001",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "6100",
+                "content": "健康",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "6101",
+                "content": "疑似病例",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "6102",
+                "content": "确诊病例",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "3133",
+        "formWid": "174",
+        "fieldType": 2,
+        "title": "你是否发热",
+        "description": "",
+        "minLength": 0,
+        "sort": "2",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field002",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "6103",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "6104",
+                "content": "否",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "3134",
+        "formWid": "174",
+        "fieldType": 2,
+        "title": "你是否有咳嗽、乏力等身体不适的症状",
+        "description": "",
+        "minLength": 0,
+        "sort": "3",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field003",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "6105",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "6106",
+                "content": "否",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "3135",
+        "formWid": "174",
+        "fieldType": 2,
+        "title": "你当前是否被隔离",
+        "description": "",
+        "minLength": 0,
+        "sort": "4",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field004",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "6107",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "6108",
+                "content": "否",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "3136",
+        "formWid": "174",
+        "fieldType": 2,
+        "title": "你近1日内是否接触过确诊/疑似病例",
+        "description": "",
+        "minLength": 0,
+        "sort": "5",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field005",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "6109",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "6110",
+                "content": "否",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    }
+]
